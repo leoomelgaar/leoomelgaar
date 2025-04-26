@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name is Leonardo, but please, call me Leo 🙏😅 I'm from Uruguay and I'm 23 years old.<br><br>I'm a Software Engineer student, currently doing the final project so I can finally graduate 🎓.<br><br>I study at "Facultad de Ingeniería (UDELAR)" and also work as a fullstack developer at Eagerworks since 2023 🤓. I'm sharing my second working year with them, in where as a developer I have to face exciting technical and non-technical challenges everyday accompanied by an awesome team!<br><br>As we all know, working by and for computers the whole day can make us to forget our soft side 🦾🤖 that’s why I always try to have it trained and keeping in mind the importance of such big values as team-work, leadership and kindness.</p>
+<p align="left">My name is Leonardo, but please, call me Leo 🙏😅 I'm from Uruguay and I'm 23 years old.<br><br>I'm a Software Engineer student, currently doing the final project so I can finally graduate 🎓.<br><br>I study at "Facultad de Ingeniería (UDELAR)" and also work as a fullstack developer at Eagerworks since 2023 🤓. I'm sharing my third working year with them, in where as a developer I have to face exciting technical and non-technical challenges everyday accompanied by an awesome team!<br><br>As we all know, working by and for computers the whole day can make us to forget our soft side 🦾🤖 that’s why I always try to have it trained and keeping in mind the importance of such big values as team-work, leadership and kindness.</p>
 
 ###
 
